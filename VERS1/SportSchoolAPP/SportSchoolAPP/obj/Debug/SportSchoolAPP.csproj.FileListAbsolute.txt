@@ -1,0 +1,81 @@
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Form1.resources
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Properties.Resources.resources
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe.config
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.pdb
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.dll
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.pdb
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CopyComplete
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.exe
+C:\Users\Анна\Desktop\курсачи\РПМ\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.pdb
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Form1.resources
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Properties.Resources.resources
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.GenerateResource.cache
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CoreCompileInputs.cache
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.exe
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.pdb
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe.config
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.pdb
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CopyComplete
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.dll
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.pdb
+H:\курсовой\rpm\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe.config
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.pdb
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.dll
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.pdb
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Form1.resources
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Properties.Resources.resources
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CopyComplete
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.exe
+C:\Users\Анна\Desktop\курсачи\РПМ\rpm\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.pdb
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe.config
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.pdb
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.dll
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.pdb
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Form1.resources
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Properties.Resources.resources
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CopyComplete
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.exe
+C:\Users\Анна\Desktop\курсачи\РПМ\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.pdb
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csprojAssemblyReference.cache
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Form1.resources
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Properties.Resources.resources
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.GenerateResource.cache
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CoreCompileInputs.cache
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.exe
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.pdb
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe.config
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.pdb
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.dll
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.pdb
+D:\МДК Ильин\курсовая\vers1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CopyComplete
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe.config
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.exe
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\bin\Debug\SportSchoolAPP.pdb
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.dll
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\bin\Debug\DataBaseLibrary.pdb
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csprojAssemblyReference.cache
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Form1.resources
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.Properties.Resources.resources
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.GenerateResource.cache
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CoreCompileInputs.cache
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.csproj.CopyComplete
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.exe
+H:\РПМ\Курсовой проект\SOURCE\VERS1\SportSchoolAPP\SportSchoolAPP\obj\Debug\SportSchoolAPP.pdb

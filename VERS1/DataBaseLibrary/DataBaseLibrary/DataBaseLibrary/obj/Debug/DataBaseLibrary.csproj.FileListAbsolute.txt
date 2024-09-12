@@ -1,0 +1,6 @@
+D:\МДК Ильин\курсовая\vers1\DataBaseLibrary\DataBaseLibrary\DataBaseLibrary\bin\Debug\DataBaseLibrary.dll
+D:\МДК Ильин\курсовая\vers1\DataBaseLibrary\DataBaseLibrary\DataBaseLibrary\bin\Debug\DataBaseLibrary.pdb
+D:\МДК Ильин\курсовая\vers1\DataBaseLibrary\DataBaseLibrary\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojAssemblyReference.cache
+D:\МДК Ильин\курсовая\vers1\DataBaseLibrary\DataBaseLibrary\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.CoreCompileInputs.cache
+D:\МДК Ильин\курсовая\vers1\DataBaseLibrary\DataBaseLibrary\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+D:\МДК Ильин\курсовая\vers1\DataBaseLibrary\DataBaseLibrary\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
